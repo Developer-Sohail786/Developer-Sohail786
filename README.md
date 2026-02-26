@@ -1,5 +1,29 @@
 # 💫 About Me:
-Hi, I'm Sohail Khan<br>Computer Science Student | MERN Stack Developer | AWS & Cloud Learner<br><br>I focus on building real-world full stack applications and deploying them on cloud infrastructure.<br>Currently learning by doing and not just watching tutorials.<br><br>What I Work With<br>Frontend: HTML, CSS, JavaScript, React, Next<br>Backend: Node.js, Express<br>Database: MongoDB<br>Cloud: AWS EC2<br>Web Server: Nginx (Reverse Proxy & Basic Load Balancing)<br>Version Control: Git & GitHub<br>What I'm Building<br>Full Stack MERN applications with:<br>Secure JWT authentication<br>OAuth integration (Google,Github login)<br>Protected routes & role-based logic<br>Backend APIs with structured architecture<br>Learning cloud deployment workflows using AWS EC2<br>Exploring Nginx configuration and server setup<br>I focus on understanding how things work internally and not just making them work.<br><br> Current Focus<br>Strengthening backend architecture<br>Improving deployment and DevOps fundamentals<br>Writing cleaner and more maintainable code<br>Building production-style project structure<br>Mindset<br>I believe in:<br>Logic-first problem solving<br>Debugging by reasoning, not guessing<br>Learning deeply instead of copying blindly<br>Turning theory into practical implementation<br> Connect With Me<br>LinkedIn: www.linkedin.com/in/sohail-khan-8a5b36371<br>Email: sanu30963@gmail.com<br>Always open to internships, collaborations, and challenging projects.
+# Hi, I'm Sohail Khan 👋  
+
+BCA Student | MERN Stack Developer | Backend & Cloud Learner  
+
+I build full stack applications using the MERN stack with JWT & OAuth authentication.  
+Currently learning cloud deployment using AWS EC2 and Nginx (reverse proxy & basic load balancing).
+
+---
+
+## 🛠 Tech Stack
+Frontend: React, Next.js, JavaScript, HTML, CSS  
+Backend: Node.js, Express  
+Database: MongoDB  
+Authentication: JWT & OAuth (Google, GitHub)  
+Cloud: AWS EC2  
+Web Server: Nginx  
+Version Control: Git & GitHub  
+
+---
+
+## 🚀 Current Focus
+- Strengthening backend architecture  
+- Deploying a MERN app on AWS  
+- Improving system design & code structure  
+- Learning DevOps fundamentals step-by-step  
 
 
 ## 🌐 Socials:
