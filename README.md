@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Sohail Khan 👋  
+# I'm Sohail Khan 
 
 BCA Student | MERN Stack Developer | Backend & Cloud Learner  
 
