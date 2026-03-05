@@ -9,7 +9,7 @@ Currently learning cloud deployment using AWS EC2 and Nginx (reverse proxy & bas
 ---
 
 ## 🛠 Tech Stack
-Frontend: React, Next.js, JavaScript, HTML, CSS, Tailwind CSS
+Frontend: React, Next.js, JavaScript, HTML, CSS
 Backend: Node.js, Express  
 Database: MongoDB  
 Authentication: JWT & OAuth (Google, GitHub)  
