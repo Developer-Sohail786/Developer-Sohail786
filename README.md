@@ -54,4 +54,4 @@ Git · GitHub · Docker · AWS · Vercel · Render · Postman
 ### 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sohailkhan-dev/
-- Portfolio: https://portfolio-website1-virid.vercel.app
+
